@@ -1,0 +1,15 @@
+/* .col{
+    background-color: #eeeeee;
+    border: solid gray 1px;
+    height: 2.5em;
+    margin: 10px 0px 5px 0px;
+}
+ */
+
+
+ .col{
+     background-color: #eeeeee;
+     border: 1px solid #000;
+     height: 2.5em;
+     margin: 10px 0px 5px 0px;
+ }
